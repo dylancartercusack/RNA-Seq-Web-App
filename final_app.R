@@ -20,7 +20,7 @@ library(ggtext)
 # 
 print("Starting up....")
 # setwd("/Volumes/tri_services/Facilities/Group_Data/MR_Groups/RG24. Macrophage Biology - DH/Dylan Carter-Cusack/Bioinformatics/rat_tissue_seq_v3/web_app/final")
-# load("./web_app_data_final.RData")
+load("./web_app_data_final.RData")
 
 
 
